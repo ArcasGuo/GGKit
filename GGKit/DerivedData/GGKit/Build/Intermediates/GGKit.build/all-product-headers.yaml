@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/CC/Desktop/GGKit/GGKit/DerivedData/GGKit/Build/Products/Debug-iphonesimulator/GGKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "GGKit-Swift.h",
+          'external-contents': "/Users/CC/Desktop/GGKit/GGKit/DerivedData/GGKit/Build/Products/Debug-iphonesimulator/GGKit.framework/Headers/GGKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "GGKit.h",
+          'external-contents': "/Users/CC/Desktop/GGKit/GGKit/GGKit/GGKit.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/CC/Desktop/GGKit/GGKit/DerivedData/GGKit/Build/Products/Debug-iphonesimulator/GGKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/CC/Desktop/GGKit/GGKit/DerivedData/GGKit/Build/Intermediates/GGKit.build/Debug-iphonesimulator/GGKit.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
